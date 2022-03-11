@@ -161,4 +161,4 @@ rule Async
 }
 ```
 
-> :t-rex: [vc0=Rexor](https://github.com/vc0RExor) :shield:![imagen](https://user-images.githubusercontent.com/91592110/157973489-16fcf2e9-11ff-459b-a5e8-ad765c91b49f.png)
+> :t-rex: [vc0=Rexor](https://github.com/vc0RExor) :shield:
